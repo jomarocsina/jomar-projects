@@ -2,6 +2,23 @@
 
 Projects that I've handled:
 
+## Globe One app
+![image](https://user-images.githubusercontent.com/51106488/201577999-ecfc9b84-ec92-43d7-87fb-39f55efff64b.png)
+
+**Programming Language:** Swift
+
+**Architecture:** Viper
+
+**Role:** iOS Developer
+
+**Other tools used:** Postman, Figma
+
+**Overview:** Bayad is your all-in-one pera transaction app offering accessible, easy, and reliable way of managing funds, saving, spending, and earning incentives with family and friends. 
+
+**Link:** https://apps.apple.com/ph/app/new-globeone/id1555659963
+
+---
+
 ## Bayad app
 ![image](https://user-images.githubusercontent.com/51106488/201577374-704146d1-2c21-462c-8d52-241754ed4754.png)
 
@@ -14,6 +31,7 @@ Projects that I've handled:
 **Other tools used:** Postman, Figma
 
 **Link:** https://apps.apple.com/ph/app/bayad-ph/id1531427756
+
 ---
 
 ## UnionBank SME Banking
