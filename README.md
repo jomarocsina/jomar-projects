@@ -188,6 +188,4 @@ To enter the raffle draw the user should visit the shop and the entry button wil
 
 **Features:** Fall Detection, Emergency Alert Notification, GPS Location Reporting
 
-**Link:** Removed from App store
-
 ---
