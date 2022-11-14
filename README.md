@@ -1,6 +1,24 @@
 # jomar-projects
 
 Projects that I've handled:
+
+## Weride
+![image](https://user-images.githubusercontent.com/51106488/201569655-95722515-63f5-4a34-b976-f45bca03a2fd.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Pioneered and engineered from scratch
+
+**Other tools used:** Postman, Figma
+
+**Link:** https://apps.apple.com/us/app/weride-ph/id1575828503
+
+**Overview:** WeRide is a long distance car sharing platform that connects vehicle owners with travelers and locals seeking to book vehicles for long distance trips.
+
 ---
 
 ## Sakura Smart Home
@@ -16,10 +34,9 @@ Projects that I've handled:
 
 **Other tools used:** Postman, Figma
 
-**Link:** https://apps.apple.com/us/app/sakura-online-market/id1479318206
+**Link:** https://apps.apple.com/us/app/sakura-smart/id1488403951
 
-**Overview:** Sakura free market is a buy and sell mobile app, that aims to help people on selling their unused items and lessen the hassle on shipping the items.
-Sakura free market offers low admission fee and also pickup from home courier service.
+**Overview:** Sakura Smart home aims to transforms your home into smart home. Never again leave your home with any devices on. Sakura Smart has location based functions that detects whenever you're away from home. You can automate your appliances using sakura smart products using the sakura smart home app.
 
 ---
 
