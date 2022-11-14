@@ -2,7 +2,7 @@
 
 Projects that I've handled:
 
-## Globe One app
+## Globe One App
 ![image](https://user-images.githubusercontent.com/51106488/201577999-ecfc9b84-ec92-43d7-87fb-39f55efff64b.png)
 
 **Programming Language:** Swift
@@ -19,7 +19,7 @@ Projects that I've handled:
 
 ---
 
-## Bayad app
+## Bayad App
 ![image](https://user-images.githubusercontent.com/51106488/201577374-704146d1-2c21-462c-8d52-241754ed4754.png)
 
 **Programming Language:** Flutter
