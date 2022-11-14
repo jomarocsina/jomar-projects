@@ -2,6 +2,39 @@
 
 Projects that I've handled:
 
+## Bayad app
+![image](https://user-images.githubusercontent.com/51106488/201577374-704146d1-2c21-462c-8d52-241754ed4754.png)
+
+**Programming Language:** Flutter
+
+**Architecture:** Bloc
+
+**Role:** iOS Developer
+
+**Other tools used:** Postman, Figma
+
+**Link:** https://apps.apple.com/ph/app/bayad-ph/id1531427756
+---
+
+## UnionBank SME Banking
+![image](https://user-images.githubusercontent.com/51106488/201576078-4c73422f-dcaf-468c-a21c-4abe2a90e577.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM
+
+**Stacks:** UIKit, XIB, RXswift
+
+**Role:** iOS Developer
+
+**Other tools used:** Postman, Figma, VPN
+
+**Link:** https://apps.apple.com/ph/app/unionbank-sme-banking/id1498905979
+
+**Overview:** Designed to take the hassle out of banking so user could focus on growing the business. Experience seamless banking with SME Business Banking.
+
+---
+
 ## Weride
 ![image](https://user-images.githubusercontent.com/51106488/201569655-95722515-63f5-4a34-b976-f45bca03a2fd.png)
 
