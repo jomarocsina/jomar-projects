@@ -13,8 +13,6 @@ Projects that I've handled:
 
 **Other tools used:** Postman, Figma
 
-**Overview:** Bayad is your all-in-one pera transaction app offering accessible, easy, and reliable way of managing funds, saving, spending, and earning incentives with family and friends. 
-
 **Link:** https://apps.apple.com/ph/app/new-globeone/id1555659963
 
 ---
