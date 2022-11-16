@@ -2,6 +2,25 @@
 
 Projects that I've handled:
 
+## Sakura Smart Home
+![image](https://user-images.githubusercontent.com/51106488/201563732-c394229b-89bb-4393-a46c-d4e6ab76f9f7.png)
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Pioneered and engineered from scratch
+
+**Other tools used:** Postman, Figma
+
+**Link:** https://apps.apple.com/us/app/sakura-smart/id1488403951
+
+**Overview:** Sakura Smart home aims to transforms your home into smart home. Never again leave your home with any devices on. Sakura Smart has location based functions that detects whenever you're away from home. You can automate your appliances using sakura smart products using the sakura smart home app.
+
+---
+
 ## Globe One App
 ![image](https://user-images.githubusercontent.com/51106488/201577999-ecfc9b84-ec92-43d7-87fb-39f55efff64b.png)
 
@@ -67,25 +86,6 @@ Projects that I've handled:
 **Link:** https://apps.apple.com/us/app/weride-ph/id1575828503
 
 **Overview:** WeRide is a long distance car sharing platform that connects vehicle owners with travelers and locals seeking to book vehicles for long distance trips.
-
----
-
-## Sakura Smart Home
-![image](https://user-images.githubusercontent.com/51106488/201563732-c394229b-89bb-4393-a46c-d4e6ab76f9f7.png)
-
-**Programming Language:** Swift
-
-**Architecture:** MVC
-
-**Stacks:** UIKit, Storyboards
-
-**Role:** Pioneered and engineered from scratch
-
-**Other tools used:** Postman, Figma
-
-**Link:** https://apps.apple.com/us/app/sakura-smart/id1488403951
-
-**Overview:** Sakura Smart home aims to transforms your home into smart home. Never again leave your home with any devices on. Sakura Smart has location based functions that detects whenever you're away from home. You can automate your appliances using sakura smart products using the sakura smart home app.
 
 ---
 
