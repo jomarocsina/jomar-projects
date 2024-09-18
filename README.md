@@ -2,6 +2,36 @@
 
 Projects that I've handled:
 
+## RS Stories
+![Screenshot 2024-09-18 at 9 26 26 AM](https://github.com/user-attachments/assets/54634555-3e3a-4ea1-85c9-1d11a29a0b79)
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM
+
+**Role:** iOS Developer
+
+**Other tools used:** Postman, Figma
+
+**Link:** https://apps.apple.com/ph/app/rs-stories/id6499471906
+
+---
+
+## Charger Total Connect
+![Screenshot 2024-09-18 at 9 24 24 AM](https://github.com/user-attachments/assets/f3db9280-b8e6-4a62-bf3f-776dfe4e2e9c)
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM
+
+**Role:** iOS Developer
+
+**Other tools used:** Postman, Figma, Firebase
+
+**Link:** https://apps.apple.com/au/app/charger-total-connect/id6499143194
+
+---
+
 ## Globe One App
 ![image](https://user-images.githubusercontent.com/51106488/201577999-ecfc9b84-ec92-43d7-87fb-39f55efff64b.png)
 
