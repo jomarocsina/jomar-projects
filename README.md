@@ -3,7 +3,7 @@
 Projects that I've handled:
 
 ## RS Stories
-![Screenshot 2024-09-18 at 9 26 26 AM](https://github.com/user-attachments/assets/54634555-3e3a-4ea1-85c9-1d11a29a0b79)
+![Screenshot 2024-09-18 at 9 26 26 AM](https://github.com/user-attachments/assets/958b95bc-a317-46e6-89ce-403c3382622d)
 
 **Programming Language:** Swift
 
@@ -18,7 +18,7 @@ Projects that I've handled:
 ---
 
 ## Charger Total Connect
-![Screenshot 2024-09-18 at 9 24 24 AM](https://github.com/user-attachments/assets/f3db9280-b8e6-4a62-bf3f-776dfe4e2e9c)
+![Screenshot 2024-09-18 at 9 24 24 AM](https://github.com/user-attachments/assets/ef3c0d22-1a70-46fc-8831-89583d5cb8a0)
 
 **Programming Language:** Swift
 
